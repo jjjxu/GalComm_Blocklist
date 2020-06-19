@@ -8,8 +8,8 @@ Original list can be found in tabbed format here: https://awakesecurity.com/wp-c
 
 Modifications performed to the TSV were: 
 
--Stripped Category names off
--Added 0.0.0.0 to comply with HOSTS format
+- Stripped Category names off
+- Added 0.0.0.0 to comply with HOSTS format
 
 You can feel free to add this to your blocking software like Pi-Hole or otherwise. You should only do so if you know what you are doing, and if you can undo potential damage involved. I am not responsible for any damage that you cause by misimplemnting this blocklist. 
 
