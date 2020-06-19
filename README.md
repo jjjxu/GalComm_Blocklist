@@ -22,7 +22,7 @@ You can feel free to add this to your blocking software like Pi-Hole or otherwis
 
 **Future updates**: I do not anticipate updating this list in the future, unless a substantial update is released by the Awake Security team. Treat this list as-is. Hopefully it will be incorporated into bigger blocklists in the future. 
 
-##Licenses
+## Licenses
 
 License for my modifications (not the list of domains):
 
