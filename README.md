@@ -5,6 +5,7 @@ To read more, please see this link here: https://awakesecurity.com/blog/the-inte
 Their pdf report is also uploaded in this repo. 
 
 Original list can be found in tabbed format here: https://awakesecurity.com/wp-content/uploads/2020/06/GalComm-Registered-Domains-List-Appendix-A.txt.
+It is also uploaded in this repo. 
 
 Modifications performed to the TSV were: 
 
