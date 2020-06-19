@@ -1,5 +1,8 @@
 # GalComm Blocklist
 Formatted HOSTS blocklist for 15K domains researched by Awake Security; combats malicious Chromium extensions.
+
+File here: https://raw.githubusercontent.com/jerrimath/GalComm_Blocklist/master/Galcomm-Hosts-Formatted.txt
+
 > :warning:**DO NOT VISIT ANY OF THE DOMAINS IN THIS BLOCKLIST UNLESS YOU KNOW WHAT YOU'RE DOING.** :warning:
 
 All credit goes to the Awake Security team. I do not intend to profit from this and have only done this out of goodwill for the community. 
