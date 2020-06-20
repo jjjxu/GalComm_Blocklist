@@ -1,0 +1,297 @@
+# Title: jerrimath's Galcomm-Hosts-Formatted_appx-c-d.txt
+# Released: 2020-06-20 
+# Count: 249 domains
+# Repo, details: https://github.com/jerrimath/GalComm_Blocklist
+#
+# All credit goes to the Awake Security team for their hard work. 
+#
+# License for my modifications (not the list of domains):
+#
+# The MIT License (MIT)
+# =====================
+#
+# Copyright © 2020 Jerry Xu (jerrimath)
+#
+# Permission is hereby granted, free of charge, to any person
+# obtaining a copy of this software and associated documentation
+# files (the “Software”), to deal in the Software without
+# restriction, including without limitation the rights to use,
+# copy, modify, merge, publish, distribute, sublicense, and/or sell
+# copies of the Software, and to permit persons to whom the
+# Software is furnished to do so, subject to the following
+# conditions:
+#
+# The above copyright notice and this permission notice shall be
+# included in all copies or substantial portions of the Software.
+# 
+# THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND,
+# EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES
+# OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+# NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT
+# HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
+# WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+# FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
+# OTHER DEALINGS IN THE SOFTWARE.
+
+
+### Domains in Appendix-C table
+### Category 1
+
+0.0.0.0 bbtwf.com
+0.0.0.0 bmjhc.com
+0.0.0.0 bwnbr.com
+0.0.0.0 dbdrq.com
+0.0.0.0 dfcsp.com
+0.0.0.0 dregsr.com
+0.0.0.0 fahugugo.com
+0.0.0.0 hadopaf.com
+0.0.0.0 hdrbr.com
+0.0.0.0 kabafahu.com
+0.0.0.0 mbnrn.com
+0.0.0.0 mopuf.com
+0.0.0.0 pawasor.com
+0.0.0.0 qgmns.com
+0.0.0.0 qofod.com
+0.0.0.0 qofom.com
+0.0.0.0 wcysr.com
+0.0.0.0 wncysr.com
+
+### Category 2
+0.0.0.0 exposure4u.co.il
+0.0.0.0 mystts.com
+0.0.0.0 turbo-pixel.com
+0.0.0.0 yoavofek.co.il
+0.0.0.0 ypixl.com
+0.0.0.0 alliancedownload.com
+0.0.0.0 anchordownload.com
+0.0.0.0 arcticdownload.com
+0.0.0.0 ariebellzzxvqtesterrr.com
+0.0.0.0 ariezzxvqtesterrr.com
+0.0.0.0 auroradownload.com
+0.0.0.0 automobiledownload.com
+0.0.0.0 bestfreefilesfordownload.com
+0.0.0.0 bestfreewebgames.com
+0.0.0.0 bestwindowsretrogames.com
+0.0.0.0 blitzdownload.com
+0.0.0.0 blueskydownload.com
+0.0.0.0 branchdownload.com
+0.0.0.0 buyonlyoldusedgames.com
+0.0.0.0 cadtoolforwin10.com
+0.0.0.0 canvasdownload.com
+0.0.0.0 cardownload.com
+0.0.0.0 charterdownload.com
+0.0.0.0 checkyourgameschartpos.com
+0.0.0.0 downloadalpha.com
+0.0.0.0 downloadanalyst.com
+0.0.0.0 downloadbeyond.com
+0.0.0.0 downloadbrite.com
+0.0.0.0 downloadcharter.com
+0.0.0.0 downloadchick.com
+0.0.0.0 downloadcollections.com
+0.0.0.0 downloadcollector.com
+0.0.0.0 downloadcove.com
+0.0.0.0 downloaddish.com
+0.0.0.0 downloaddraw.com
+0.0.0.0 downloadgeneral.com
+0.0.0.0 downloadhotline.com
+0.0.0.0 downloadlance.com
+0.0.0.0 downloadnumber.com
+0.0.0.0 downloadorama.com
+0.0.0.0 downloadpunch.com
+0.0.0.0 downloadscapes.com
+0.0.0.0 downloadselection.com
+0.0.0.0 downloadshape.com
+0.0.0.0 downloadsyndicate.com
+0.0.0.0 downloadtales.com
+0.0.0.0 downloadunity.com
+0.0.0.0 downloadvest.com
+0.0.0.0 empowerdownload.com
+0.0.0.0 eternaldownload.com
+0.0.0.0 falcondownload.com
+0.0.0.0 fixmyoldgames.com
+0.0.0.0 fleamarketusedgames.com
+0.0.0.0 formarketusedoldgames.com
+0.0.0.0 freebuildgames.com
+0.0.0.0 freec64games.com
+0.0.0.0 freecolecogames.com
+0.0.0.0 freefunctionorg.com
+0.0.0.0 freemycats.com
+0.0.0.0 freemyretrogames.com
+0.0.0.0 freenewpeoplehere.com
+0.0.0.0 freenewwebgames.com
+0.0.0.0 freepdfmergetool.com
+0.0.0.0 freewebgamesfordownload.com
+0.0.0.0 freewindowsretrogames.com
+0.0.0.0 freeyourbestwebgames.com
+0.0.0.0 genesisdownload.com
+0.0.0.0 geniedownload.com
+0.0.0.0 groovydownload.com
+0.0.0.0 harvestdownload.com
+0.0.0.0 horseshoedownload.com
+0.0.0.0 hrearethebestfilesfordownload.com
+0.0.0.0 identitydownload.com
+0.0.0.0 jointdownload.com
+0.0.0.0 jointforfilesdownload.com
+0.0.0.0 jointmyfilesdownload.com
+0.0.0.0 juicytomatoesdownload.com
+0.0.0.0 kentfrycans.com
+0.0.0.0 labdownload.com
+0.0.0.0 leaddownload.com
+0.0.0.0 leatherdownload.com
+0.0.0.0 lightningboltdownload.com
+0.0.0.0 livingdownload.com
+0.0.0.0 lookforthebestfile.com
+0.0.0.0 lookforthebestfileintheworld.com
+0.0.0.0 lunardownload.com
+0.0.0.0 medidownload.com
+0.0.0.0 motorcardownload.com
+0.0.0.0 mybestfilesfordownload.com
+0.0.0.0 mybestplaceforfilestodownload.com
+0.0.0.0 myfreeretrogames.com
+0.0.0.0 newwavethebestintheworld.com
+0.0.0.0 nitrogendownload.com
+0.0.0.0 northfielddownload.com
+0.0.0.0 olivedownload.com
+0.0.0.0 ordinarylabratorydownload.com
+0.0.0.0 outletdownload.com
+0.0.0.0 panrtodelare.com
+0.0.0.0 placefordownload.com
+0.0.0.0 placeforfilestodownload.com
+0.0.0.0 popmusicisthebestmusic.com
+0.0.0.0 powderdownload.com
+0.0.0.0 primodownload.com
+0.0.0.0 productiondownload.com
+0.0.0.0 rallydownload.com
+0.0.0.0 rdnld.com
+0.0.0.0 rhinodownload.com
+0.0.0.0 rhtab.com
+0.0.0.0 routedownload.com
+0.0.0.0 ruraldownload.com
+0.0.0.0 safenewforbusypeople.com
+0.0.0.0 sec4biz.co.il
+0.0.0.0 shoredownload.com
+0.0.0.0 smokeboundarydownload.com
+0.0.0.0 snowplowdownload.com
+0.0.0.0 sonatadownload.com
+0.0.0.0 strongtreedownload.com
+0.0.0.0 synthpopthebestmusicintheworld.com
+0.0.0.0 tacticaldownload.com
+0.0.0.0 takejointforfilesdownload.com
+0.0.0.0 thebestplaceforfilestodownload.com
+0.0.0.0 trafficdownload.com
+0.0.0.0 trenddownload.com
+0.0.0.0 tropicaldownload.com
+0.0.0.0 universedownload.com
+0.0.0.0 venuedownload.com
+0.0.0.0 warriordownload.com
+0.0.0.0 whatisthebestplaceforfilesfordownload.com
+0.0.0.0 whatwindowsretrogames.com
+0.0.0.0 wherearemybestfilesfordownload.com
+0.0.0.0 wherearethebestfile.com
+0.0.0.0 wherearethebestplaceforfilestodownload.com
+0.0.0.0 wildernessdownload.com
+0.0.0.0 yourbestplaceforfilestodownload.com
+
+### END Appendix C domains
+
+### Domains in Appendix-D table
+
+0.0.0.0 abcyoutube.com
+0.0.0.0 bajarmusicayoutube.com
+0.0.0.0 convertidordeyoutubemp3.net
+0.0.0.0 crearcuentagoogle.com
+0.0.0.0 dwnyoutube.com
+0.0.0.0 fastestyoutubedownloader.com
+0.0.0.0 firebasegoogle.com
+0.0.0.0 fogoogle.com
+0.0.0.0 frgmail.com
+0.0.0.0 frgoogle.com
+0.0.0.0 gigoogle.com
+0.0.0.0 gmailaa.com
+0.0.0.0 gmaille.com
+0.0.0.0 gmailol.com
+0.0.0.0 gmailpassrecovery.com
+0.0.0.0 gmail-signup.com
+0.0.0.0 google444.com
+0.0.0.0 googleaearth.com
+0.0.0.0 googleblack.com
+0.0.0.0 googlebussines.com
+0.0.0.0 googlecalender.com
+0.0.0.0 googlecharme.com
+0.0.0.0 googlechromo.com
+0.0.0.0 googlecrohme.com
+0.0.0.0 googledrie.com
+0.0.0.0 googleespn.com
+0.0.0.0 googlefamilyfeud.com
+0.0.0.0 googleindir.com
+0.0.0.0 googlemaail.com
+0.0.0.0 googlemaprs.com
+0.0.0.0 googlemapsd.com
+0.0.0.0 googlemasil.com
+0.0.0.0 googlemerchant.com
+0.0.0.0 googlemqil.com
+0.0.0.0 googlenewssubmit.com
+0.0.0.0 google-obrazky.com
+0.0.0.0 googlepixelmanuals.net
+0.0.0.0 googleplas.com
+0.0.0.0 googleplaystor.com
+0.0.0.0 googleplaystoreapks.com
+0.0.0.0 googleplsy.com
+0.0.0.0 googleprank.com
+0.0.0.0 googlerive.com
+0.0.0.0 googlesettings.com
+0.0.0.0 googletagservice.com
+0.0.0.0 googletrad.com
+0.0.0.0 googletranclate.com
+0.0.0.0 googlevdeo.com
+0.0.0.0 googlevedio.com
+0.0.0.0 googleweblight.net
+0.0.0.0 googlyoutube.com
+0.0.0.0 hackyoutube.com
+0.0.0.0 listetoyoutube.com
+0.0.0.0 miyoutube.com
+0.0.0.0 mygmailsignin.com
+0.0.0.0 neewgoogle.com
+0.0.0.0 newgmailaccount.com
+0.0.0.0 newyoutube.com
+0.0.0.0 ns1google.com
+0.0.0.0 ooggoogle.com
+0.0.0.0 ooyoutube.com
+0.0.0.0 orgoogle.com
+0.0.0.0 ritgmail.com
+0.0.0.0 santatrackergoogle.com
+0.0.0.0 schoolyoutube.com
+0.0.0.0 segoogle.com
+0.0.0.0 segredosgooglenews.com
+0.0.0.0 signintogmail.com
+0.0.0.0 ss-youtube.com
+0.0.0.0 storegoogle.com
+0.0.0.0 tubemateyoutubedownloader.com
+0.0.0.0 vidyoutube.com
+0.0.0.0 workingforgoogle.com
+0.0.0.0 wweyoutube.com
+0.0.0.0 xn--gmail-rta.com
+0.0.0.0 xn--googlebersetzer-4vb.com
+0.0.0.0 xn--ssyoutube-r3a.com
+0.0.0.0 xn--wwwgoogle-d4a.com
+0.0.0.0 yiyoutube.com
+0.0.0.0 yogoogle.com
+0.0.0.0 youtube2dvd.com
+0.0.0.0 youtubebuddy.com
+0.0.0.0 youtubeco.com
+0.0.0.0 youtubecreators.com
+0.0.0.0 youtubeeee.com
+0.0.0.0 youtubefreemovie.com
+0.0.0.0 youtubegmail.com
+0.0.0.0 youtubehack.com
+0.0.0.0 youtubehoo.com
+0.0.0.0 youtube-movies.net
+0.0.0.0 youtubemp3donusturucu.net
+0.0.0.0 youtuberipper.com
+0.0.0.0 youtubetu.com
+0.0.0.0 youtubeunblocked.net
+0.0.0.0 youtubexx.com
+0.0.0.0 youtubeyo.com
+0.0.0.0 ytyoutube.com
+
+### END Appendix D domains
